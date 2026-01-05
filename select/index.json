@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シュシュタイト",
+  "base_artist": "BIN",
+  "createdAt": "2026-01-05T14:55:45.960809Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュシュタイト",
+      "artist": "BIN",
+      "has_synced": false,
+      "path": "select/pl_01_シュシュタイト_BIN.txt"
+    }
+  ]
+}
